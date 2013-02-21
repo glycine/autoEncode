@@ -13,12 +13,11 @@
 
 import codecs
 import json
-import ntpath
 import sys
-import os
 import os.path
 import shutil
 from optparse import OptionParser
+from resources import config
 
 # 各種定数値
 ERR_FILE_EXT = ".err"
@@ -29,7 +28,7 @@ SPLIT_TOKEN = "_"
 
 
 def __parse_args__(args):
-   # ヘルプなどの設定
+	# ヘルプなどの設定
 	parser_config = { "usage": "%prog [オプション] [引数]: TSファイルをbase_title/serviceのディレクトリに移動します",
 	                  "version": "%prog : ver 1.0" }
 	# オプションの既定値の設定
@@ -93,12 +92,6 @@ def __check_capture_finished__(ts_file):
 		return False
 	return True
 
-def __load_info__( info_file, dir_path ):
-	service_info_file = codecs.open( os.path.join(dir_path, info_file), encoding='utf-8')
-	service_info = json.load(service_info_file, encoding="utf-8")
-	service_info_file.close()
-	return service_info
-
 def __get_service_and_program_name__( ts_filename ):
 	base, ext = os.path.splitext(os.path.basename(ts_filename))
 	tokens = base.split(SPLIT_TOKEN)
@@ -144,8 +137,11 @@ def main():
 	ts_filelist = __get_ts_filelist__(options.src_directory)
 	if not (options.no_check_finished):
 		ts_filelist = [x for x in ts_filelist if __check_capture_finished__(x)]
-	service_info = __load_info__(SERVICE_INFO_FILE, options.config_directory)
-	base_title_info = __load_info__(BASE_TITLE_INFO_FILE, options.config_directory)
+
+	# 設定ファイルを読み込み
+	service_info = config.load_info(SERVICE_INFO_FILE, options.config_directory)
+	base_title_info = config.load_info(BASE_TITLE_INFO_FILE, options.config_directory)
+
 	service_and_program_name_list = [__get_service_and_program_name__(x) for x in ts_filelist]
 	# service nameが定義されていないものを除去
 	service_and_program_name_list = [x for x in service_and_program_name_list if __get_my_service_name__(x[0], service_info) ]
@@ -157,4 +153,4 @@ def main():
 	[__distribute_ts_file__(x[0], x[1], x[2], options.dest_directory) for x in my_service_name_and_base_title_list]
 
 if __name__ == '__main__':
-    main()
+	main()
