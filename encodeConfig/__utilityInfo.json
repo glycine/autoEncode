@@ -1,0 +1,26 @@
+{
+	"ts_splitter": 
+		{"exec": "C:\\Utility\\TSSplitter\\TsSplitter.exe",
+		"opts": "-EIT -SD -1SEG -SEP3 -SEPA -OVL0,6,0,0,0",
+		"sd_opts": "-EIT -HD -1SEG -SEP3 -SEPA -OVL0,6,0,0,0",
+		"outputdir_opt": "-OUT"
+		},
+	"bon_ts_demux":
+		{"exec": "C:\\Utility\\BonTSDemux_mod_10k6\\BonTsDemux.exe",
+		"input_file_opt": "-i",
+		"output_file_opt": "-o",
+		"service_no_opt": "-srv",
+		"stereo_sound_opt": "-sound 0 -es 0",
+		"main_sound_opt": "-sound 1 -es 0",
+		"sub_sound_opt": "-sound 2 -es 1",
+		"surround_sound_opt": "-sound 3",
+		"video_and_wave_demux": "-encode Demux(m2v+wav)",
+		"wave_demux": "-encode Demux(wav)",
+		"aac_demux": "-encode Demux(aac)",
+		"opts": "-start -quit"
+		},
+	"mme":
+		{"exec": "C:\\Utility\\Mme\\mme.exe",
+		"opts": "-start -quit"
+		}
+}

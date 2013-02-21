@@ -1,0 +1,26 @@
+[
+	{"video_type": "hdtv_t",
+	"width": 1440,
+	"height": 1080,
+	"sar": "4:3",
+	"video_bitrate": 3222,
+	"audio_bitrate": 192,
+	"crop_width": 180
+	},
+	{"video_type": "hdtv_s",
+	"width": 1920,
+	"height": 1080,
+	"sar": "1:1",
+	"video_bitrate": 3222,
+	"audio_bitrate": 192,
+	"crop_width": 240
+	},
+	{"video_type": "sdtv",
+	"width": 720,
+	"height": 480,
+	"sar": "32:27",
+	"video_bitrate": 1040,
+	"audio_bitrate": 160,
+	"crop_width": 88
+	}
+]
