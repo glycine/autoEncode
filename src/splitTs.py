@@ -13,7 +13,6 @@
 
 import codecs
 import json
-import os
 import os.path
 import shutil
 import sys
@@ -161,7 +160,7 @@ def __get_hd_sd_info(base_title, service, base_title_info, service_info):
 	match_base_title_list = [x for x in base_title_info if x["base_title"] == base_title_info]
 	if len( match_base_title_list) < 1:
 		return __get_hd_sd_info_from_service( service, service_info )
-	match_base_title = match_base_title[0]
+	match_base_title = match_base_title_list[0]
 	if not match_base_title["is_hi_vision"]:
 		return __get_hd_sd_info_from_service( service, service_info )
 	if not match_base_title["is_hi_vision"][service]:
