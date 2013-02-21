@@ -13,7 +13,6 @@
 
 import codecs
 import json
-import os
 import os.path
 
 def load_info( filename, dir_path ):
