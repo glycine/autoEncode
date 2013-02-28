@@ -1,625 +1,650 @@
 [
-	{"base_title": "GJ-bu",
-	"shobocal_id": 2877,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ＧＪ部（グッジョぶ）"]
-	},
-	{"base_title": "Chihayafuru2",
-	"shobocal_id": 2875,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ちはやふる２"]
-	},
-	{"base_title": "Amnesia",
-	"shobocal_id": 2861,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"AMNESIA",
-		"ＡＭＮＥＳＩＡ",
-		"アムネシア"]
-	},
-	{"base_title": "TheUnlimitedHyobuKyosuke",
-	"shobocal_id": 2860,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ＴＨＥ　ＵＮＬＩＭＩＴＥＤ　兵部京介"]
-	},
-	{"base_title": "Hakkenden-TohoHakkenIbun",
-	"shobocal_id": 2859,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"八犬伝－東方八犬異聞－",
-		"八犬伝―東方八犬異聞―"]
-	},
-	{"base_title": "Senyu",
-	"shobocal_id": 2847,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"戦勇。"]
-	},
-	{"base_title": "HaitaiNanafa",
-	"shobocal_id": 2846,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"はいたい七葉"]
-	},
-	{"base_title": "YamaNoSusume",
-	"shobocal_id": 2845,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ヤマノススメ"]
-	},
-	{"base_title": "LoveLive",
-	"shobocal_id": 2844,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ラブライブ！"]
-	},
-	{"base_title": "Mangirl",
-	"shobocal_id": 2842,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"まんがーる！"]
-	},
-	{"base_title": "NekoMonogatari",
-	"shobocal_id": 2840,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"猫物語（黒）",
-		"猫物語(黒)"]
-	},
-	{"base_title": "AKB0048-NextStage",
-	"shobocal_id": 2839,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"AKB0048 next stage",
-		"ＡＫＢ００４８　ｎｅｘｔ　ｓｔａｇｅ",
-		"ＡＫＢ００４８"]
-	},
-	{"base_title": "MaoyuMaoYusha",
-	"shobocal_id": 2838,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"まおゆう魔王勇者"]
-	},
-	{"base_title": "D.C.3",
-	"shobocal_id": 2837,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"Ｄ．Ｃ．Ⅲ～ダ・カーポⅢ～",
-		"D.C.Ⅲ～ダ・カーポⅢ～"]
-	},
-	{"base_title": "BakumatsuGijindenRoman",
-	"shobocal_id": 2836,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"幕末義人伝　浪漫"]
-	},
-	{"base_title": "VividredOperation",
-	"shobocal_id": 2835,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ビビッドレッド・オペレーション"]
-	},
-	{"base_title": "Kotoura-san",
-	"shobocal_id": 2834,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"琴浦さん"]
-	},
-	{"base_title": "HanayakaNariWagaIchizoku-Kinetograph",
-	"shobocal_id": 2827,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"華ヤカ哉、我ガ一族 キネトグラフ"]
-	},
-	{"base_title": "TamakoMarket",
-	"shobocal_id": 2825,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"たまこまーけっと"]
-	},
-	{"base_title": "CuticleDetectiveInaba",
-	"shobocal_id": 2824,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"キューティクル探偵因幡"]
-	},
-	{"base_title": "Minamike-Tadaima",
-	"shobocal_id": 2821,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"みなみけ ただいま",
-		"みなみけ～ただいま～",
-		"みなみけ　ただいま"]
-	},
-	{"base_title": "OreNoKanojoToOsananajimiGaShurabaSugiru",
-	"shobocal_id": 2819,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"俺の彼女と幼なじみが修羅場すぎる"]
-	},
-	{"base_title": "Sasami-sanGanbaranai",
-	"shobocal_id": 2818,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ささみさん＠がんばらない"]
-	},
-	{"base_title": "BokuWaTomodachiGaSukunai-Next",
-	"shobocal_id": 2817,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"僕は友達が少ないＮＥＸＴ"]
-	},
-	{"base_title": "Mondaiji-tachiGaIsekaiKaraKuruSoDesuyo",
-	"shobocal_id": 2816,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"問題児たちが異世界から来るそうですよ？"]
-	},
-	{"base_title": "Imouto-Okan",
-	"shobocal_id": 2815,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"僕の妹は「大阪おかん」"]
-	},
-	{"base_title": "SenranKagura",
-	"shobocal_id": 2814,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"閃乱カグラ"]
-	},
-	{"base_title": "AiMaiMi",
-	"shobocal_id": 2806,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"あいまいみー"]
-	},
-	{"base_title": "AoiSekaiNoChushinDe",
-	"shobocal_id": 2783,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"蒼い世界の中心で"]
-	},
-	{"base_title": "SeitokaiNoIchizon2",
-	"shobocal_id": 2776,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"生徒会の一存　Ｌｖ．２",
-		"生徒会の一存 Lv.2"]
-	},
-	{"base_title": "MacrossFrontierMovie_ItsuwariNoUtahime",
-	"shobocal_id": 2753,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"劇場版マクロスF～イツワリノウタヒメ～"]
-	},
-	{"base_title": "Teekyu",
-	"shobocal_id": 2742,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"is_hi_vision":
-		{ "tokyoMx": true
-		},
-	"matching_str": [
-		"てーきゅう"]
-	},
-	{"base_title": "Bakuman3",
-	"shobocal_id": 2741,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"アニメ　バクマン。３"]
-	},
-	{"base_title": "Magi",
-	"shobocal_id": 2738,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"マギ　"]
-	},
-	{"base_title": "Psycho-Pass",
-	"shobocal_id": 2735,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ＰＳＹＣＨＯ－ＰＡＳＳ"]
-	},
-	{"base_title": "Jojo'sBizarreAdventure",
-	"shobocal_id": 2732,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ジョジョの奇妙な冒険"]
-	},
-	{"base_title": "IxionSagaDT",
-	"shobocal_id": 2730,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"イクシオンサーガ　ＤＴ"]
-	},
-	{"base_title": "FromTheNewWorld",
-	"shobocal_id": 2717,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"新世界より"]
-	},
-	{"base_title": "RoboticsNotes",
-	"shobocal_id": 2715,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ＲＯＢＯＴＩＣＳ；ＮＯＴＥＳ",
-		"ロボティクス・ノーツ"]
-	},
-	{"base_title": "MedakaBox-Abnormal",
-	"shobocal_id": 2712,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"めだかボックス　アブノーマル"]
-	},
-	{"base_title": "LittleBusters",
-	"shobocal_id": 2704,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"リトルバスターズ！"]
-	},
-	{"base_title": "ZetsuenNoTempest",
-	"shobocal_id": 2694,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"is_hi_vision": true,
-	"matching_str": [
-		"絶園のテンペスト"]
-	},
-	{"base_title": "BusouShinki",
-	"shobocal_id": 2683,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"is_hi_vision": true,
-	"matching_str": [
-		"武装神姫"]
-	},
-	{"base_title": "HidamariSketch-Honeycomb",
-	"shobocal_id": 2679,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ひだまりスケッチ×ハニカム"]
-	},
-	{"base_title": "Sakura-soNoPetNaKanojo",
-	"shobocal_id": 2665,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"さくら荘のペットな彼女"]
-	},
-	{"base_title": "Berserk",
-	"shobocal_id": 2611,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ベルセルク　黄金時代篇　堕ちた鷹"]
-	},
-	{"base_title": "Driland",
-	"shobocal_id": 2596,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"探検ドリランド"]
-	},
-	{"base_title": "Kingdom",
-	"shobocal_id": 2554,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"アニメ　キングダム"]
-	},
-	{"base_title": "GingaHeKickoff",
-	"shobocal_id": 2523,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"アニメ　銀河へキックオフ！！"]
-	},
-	{"base_title": "UchuuKyoudai",
-	"shobocal_id": 2478,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"宇宙兄弟"]
-	},
-	{"base_title": "Yurumates3day",
-	"shobocal_id": 2476,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ゆるめいつ３でぃ"]
-	},
-	{"base_title": "SakiAchiga-henEpisodeOfSide-A",
-	"shobocal_id": 2470,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"咲-Saki- 阿知賀編 episode of side-A"]
-	},
-	{"base_title": "LittleBattlersExperienceW",
-	"shobocal_id": 2435,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ダンボール戦機Ｗ"]
-	},
-	{"base_title": "HunterxHunter",
-	"shobocal_id": 2288,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ＨＵＮＴＥＲ×ＨＵＮＴＥＲ"]
-	},
-	{"base_title": "PhiBrain-KamiNoPuzzle",
-	"shobocal_id": 2257,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"アニメ　ファイ・ブレイン～神のパズル"]
-	},
-	{"base_title": "MobileSuitGundamUC",
-	"shobocal_id": 2130,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"機動戦士ガンダムＵＣ"]
-	},
-	{"base_title": "AoNoExorcist",
-	"shobocal_id": 2123,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"青の祓魔師"]
-	},
-	{"base_title": "StarDriver-KagayakiNoTakuto",
-	"shobocal_id": 2044,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ＳＴＡＲ　ＤＲＩＶＥＲ",
-		"スタードライバー"]
-	},
-	{"base_title": "HyakkaRyoran-SamuraiGirls",
-	"shobocal_id": 2022,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"百花繚乱　サムライガールズ"]
-	},
-	{"base_title": "BrokenBlade",
-	"shobocal_id": 2017,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"is_hi_vision": 
-		{"at-x": false
-		},
-	"matching_str": [
-		"ブレイク ブレイド"]
-	},
-	{"base_title": "BlackLagoon-Roberta'sBloodTrail",
-	"shobocal_id": 1964,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ＢＬＡＣＫ　ＬＡＧＯＯＮ　ＯＶＡ特別編集版"]
-	},
-	{"base_title": "GhostInTheShell-StandAloneComplex-SolidStateSociety",
-	"shobocal_id": 1917,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"攻殻機動隊Ｓ．Ａ．Ｃ．　ＳＯＬＩＤ　ＳＴＡＴＥ　ＳＯＣＩＥＴＹ"]
-	},
-	{"base_title": "Working2",
-	"shobocal_id": 1885,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"WORKING!!"]
-	},
-	{"base_title": "FairyTail",
-	"shobocal_id": 1755,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ＦＡＩＲＹ　ＴＡＩＬ　～フェアリーテイル～"]
-	},
-	{"base_title": "Minamike-Okaeri",
-	"shobocal_id": 1538,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"みなみけ おかえり"]
-	},
-	{"base_title": "Clannad-AfterStory",
-	"shobocal_id": 1462,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"CLANNAD～AFTER STORY～"]
-	},
-	{"base_title": "TengenToppaGurrenLagann",
-	"shobocal_id": 1000,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"天元突破グレンラガン"]
-	},
-	{"base_title": "xxxHOLiC-Kei",
-	"shobocal_id": 1347,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ｘｘｘＨＯＬｉＣ◆継　"]
-	},
-	{"base_title": "xxxHOLiC",
-	"shobocal_id": 745,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"ｘｘｘＨＯＬｉＣ　"]
-	},
-	{"base_title": "Mushishi",
-	"shobocal_id": 699,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"蟲師"]
-	},
-	{"base_title": "HanaukyoMaidTeam-LaVerite",
-	"shobocal_id": 362,
-	"count_width": 2,
-	"crop": true,
-	"is_progressive": true,
-	"matching_str": [
-		"花右京メイド隊 La Verite"]
-	},
-	{"base_title": "SteelAngelKurumi",
-	"shobocal_id": 307,
-	"count_width": 2,
-	"crop": true,
-	"is_progressive": true,
-	"matching_str": [
-		"鋼鉄天使くるみ "]
-	},
-	{"base_title": "GhostInTheShell-S.A.C-2nd-GIG",
-	"shobocal_id": 305,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"攻殻機動隊　Ｓ．Ａ．Ｃ．　２ｎｄ",
-		"攻殻機動隊　S.A.C. 2nd GIG"]
-	},
-	{"base_title": "GhostInTheShell-StandAloneComplex",
-	"shobocal_id": 104,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"攻殻機動隊　STAND ALONE COMPLEX"]
-	},
-	{"base_title": "MobileSuitGundamSeed",
-	"shobocal_id": 19,
-	"count_width": 2,
-	"crop": false,
-	"is_progressive": true,
-	"matching_str": [
-		"機動戦士ガンダムSEED",
-		"機動戦士ガンダムＳＥＥＤ"]
-	}
+    {"base_title": "GJ-bu",
+    "shobocal_id": 2877,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＧＪ部（グッジョぶ）"]
+    },
+    {"base_title": "Chihayafuru2",
+    "shobocal_id": 2875,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ちはやふる２"]
+    },
+    {"base_title": "Amnesia",
+    "shobocal_id": 2861,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "AMNESIA",
+        "ＡＭＮＥＳＩＡ",
+        "アムネシア"]
+    },
+    {"base_title": "TheUnlimitedHyobuKyosuke",
+    "shobocal_id": 2860,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＴＨＥ　ＵＮＬＩＭＩＴＥＤ　兵部京介"]
+    },
+    {"base_title": "Hakkenden-TohoHakkenIbun",
+    "shobocal_id": 2859,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "八犬伝－東方八犬異聞－",
+        "八犬伝―東方八犬異聞―"]
+    },
+    {"base_title": "Senyu",
+    "shobocal_id": 2847,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "戦勇。"]
+    },
+    {"base_title": "HaitaiNanafa",
+    "shobocal_id": 2846,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "はいたい七葉"]
+    },
+    {"base_title": "YamaNoSusume",
+    "shobocal_id": 2845,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ヤマノススメ"]
+    },
+    {"base_title": "LoveLive",
+    "shobocal_id": 2844,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ラブライブ！"]
+    },
+    {"base_title": "Mangirl",
+    "shobocal_id": 2842,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "まんがーる！"]
+    },
+    {"base_title": "NekoMonogatari",
+    "shobocal_id": 2840,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "猫物語（黒）",
+        "猫物語(黒)"]
+    },
+    {"base_title": "AKB0048-NextStage",
+    "shobocal_id": 2839,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "AKB0048 next stage",
+        "ＡＫＢ００４８　ｎｅｘｔ　ｓｔａｇｅ",
+        "ＡＫＢ００４８"]
+    },
+    {"base_title": "MaoyuMaoYusha",
+    "shobocal_id": 2838,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "まおゆう魔王勇者"]
+    },
+    {"base_title": "D.C.3",
+    "shobocal_id": 2837,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "Ｄ．Ｃ．Ⅲ～ダ・カーポⅢ～",
+        "D.C.Ⅲ～ダ・カーポⅢ～"]
+    },
+    {"base_title": "BakumatsuGijindenRoman",
+    "shobocal_id": 2836,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "幕末義人伝　浪漫"]
+    },
+    {"base_title": "VividredOperation",
+    "shobocal_id": 2835,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ビビッドレッド・オペレーション"]
+    },
+    {"base_title": "Kotoura-san",
+    "shobocal_id": 2834,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "琴浦さん"]
+    },
+    {"base_title": "HanayakaNariWagaIchizoku-Kinetograph",
+    "shobocal_id": 2827,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "華ヤカ哉、我ガ一族 キネトグラフ"]
+    },
+    {"base_title": "TamakoMarket",
+    "shobocal_id": 2825,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "たまこまーけっと"]
+    },
+    {"base_title": "CuticleDetectiveInaba",
+    "shobocal_id": 2824,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "キューティクル探偵因幡"]
+    },
+    {"base_title": "Minamike-Tadaima",
+    "shobocal_id": 2821,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "みなみけ ただいま",
+        "みなみけ～ただいま～",
+        "みなみけ　ただいま"]
+    },
+    {"base_title": "OreNoKanojoToOsananajimiGaShurabaSugiru",
+    "shobocal_id": 2819,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "俺の彼女と幼なじみが修羅場すぎる"]
+    },
+    {"base_title": "Sasami-sanGanbaranai",
+    "shobocal_id": 2818,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ささみさん＠がんばらない"]
+    },
+    {"base_title": "BokuWaTomodachiGaSukunai-Next",
+    "shobocal_id": 2817,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "僕は友達が少ないＮＥＸＴ"]
+    },
+    {"base_title": "Mondaiji-tachiGaIsekaiKaraKuruSoDesuyo",
+    "shobocal_id": 2816,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "問題児たちが異世界から来るそうですよ？"]
+    },
+    {"base_title": "Imouto-Okan",
+    "shobocal_id": 2815,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "僕の妹は「大阪おかん」"]
+    },
+    {"base_title": "SenranKagura",
+    "shobocal_id": 2814,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "閃乱カグラ"]
+    },
+    {"base_title": "AiMaiMi",
+    "shobocal_id": 2806,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "あいまいみー"]
+    },
+    {"base_title": "AoiSekaiNoChushinDe",
+    "shobocal_id": 2783,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "蒼い世界の中心で"]
+    },
+    {"base_title": "SeitokaiNoIchizon2",
+    "shobocal_id": 2776,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "生徒会の一存　Ｌｖ．２",
+        "生徒会の一存 Lv.2"]
+    },
+    {"base_title": "MacrossFrontierMovie_ItsuwariNoUtahime",
+    "shobocal_id": 2753,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "劇場版マクロスF～イツワリノウタヒメ～"]
+    },
+    {"base_title": "Teekyu",
+    "shobocal_id": 2742,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "is_hi_vision":
+        { "tokyoMx": true
+        },
+    "matching_str": [
+        "てーきゅう"]
+    },
+    {"base_title": "Bakuman3",
+    "shobocal_id": 2741,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "アニメ　バクマン。３"]
+    },
+    {"base_title": "Magi",
+    "shobocal_id": 2738,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "マギ　"]
+    },
+    {"base_title": "Psycho-Pass",
+    "shobocal_id": 2735,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＰＳＹＣＨＯ－ＰＡＳＳ"]
+    },
+    {"base_title": "Jojo'sBizarreAdventure",
+    "shobocal_id": 2732,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ジョジョの奇妙な冒険"]
+    },
+    {"base_title": "IxionSagaDT",
+    "shobocal_id": 2730,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "イクシオンサーガ　ＤＴ"]
+    },
+    {"base_title": "FromTheNewWorld",
+    "shobocal_id": 2717,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "新世界より"]
+    },
+    {"base_title": "RoboticsNotes",
+    "shobocal_id": 2715,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＲＯＢＯＴＩＣＳ；ＮＯＴＥＳ",
+        "ロボティクス・ノーツ"]
+    },
+    {"base_title": "MedakaBox-Abnormal",
+    "shobocal_id": 2712,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "めだかボックス　アブノーマル"]
+    },
+    {"base_title": "LittleBusters",
+    "shobocal_id": 2704,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "リトルバスターズ！"]
+    },
+    {"base_title": "ZetsuenNoTempest",
+    "shobocal_id": 2694,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "is_hi_vision": true,
+    "matching_str": [
+        "絶園のテンペスト"]
+    },
+    {"base_title": "BusouShinki",
+    "shobocal_id": 2683,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "is_hi_vision": true,
+    "matching_str": [
+        "武装神姫"]
+    },
+    {"base_title": "HidamariSketch-Honeycomb",
+    "shobocal_id": 2679,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ひだまりスケッチ×ハニカム"]
+    },
+    {"base_title": "Sakura-soNoPetNaKanojo",
+    "shobocal_id": 2665,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "さくら荘のペットな彼女"]
+    },
+    {"base_title": "Berserk",
+    "shobocal_id": 2611,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ベルセルク　黄金時代篇　堕ちた鷹"]
+    },
+    {"base_title": "Driland",
+    "shobocal_id": 2596,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "探検ドリランド"]
+    },
+    {"base_title": "Kingdom",
+    "shobocal_id": 2554,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "アニメ　キングダム"]
+    },
+    {"base_title": "GingaHeKickoff",
+    "shobocal_id": 2523,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "アニメ　銀河へキックオフ！！"]
+    },
+    {"base_title": "UchuuKyoudai",
+    "shobocal_id": 2478,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "宇宙兄弟"]
+    },
+    {"base_title": "Yurumates3day",
+    "shobocal_id": 2476,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ゆるめいつ３でぃ"]
+    },
+    {"base_title": "SakiAchiga-henEpisodeOfSide-A",
+    "shobocal_id": 2470,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "咲-Saki- 阿知賀編 episode of side-A"]
+    },
+    {"base_title": "LittleBattlersExperienceW",
+    "shobocal_id": 2435,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ダンボール戦機Ｗ"]
+    },
+    {"base_title": "HunterxHunter",
+    "shobocal_id": 2288,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＨＵＮＴＥＲ×ＨＵＮＴＥＲ"]
+    },
+    {"base_title": "PhiBrain-KamiNoPuzzle",
+    "shobocal_id": 2257,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "アニメ　ファイ・ブレイン～神のパズル"]
+    },
+    {"base_title": "MobileSuitGundamUC",
+    "shobocal_id": 2130,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "機動戦士ガンダムＵＣ",
+        "機動戦士ガンダムUC　"]
+    },
+    {"base_title": "AoNoExorcist",
+    "shobocal_id": 2123,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "青の祓魔師"]
+    },
+    {"base_title": "StarDriver-KagayakiNoTakuto",
+    "shobocal_id": 2044,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＳＴＡＲ　ＤＲＩＶＥＲ",
+        "スタードライバー"]
+    },
+    {"base_title": "HyakkaRyoran-SamuraiGirls",
+    "shobocal_id": 2022,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "百花繚乱　サムライガールズ"]
+    },
+    {"base_title": "BrokenBlade",
+    "shobocal_id": 2017,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "is_hi_vision":
+        {"at-x": false
+        },
+    "matching_str": [
+        "ブレイク ブレイド"]
+    },
+    {"base_title": "BlackLagoon-Roberta'sBloodTrail",
+    "shobocal_id": 1964,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＢＬＡＣＫ　ＬＡＧＯＯＮ　ＯＶＡ特別編集版"]
+    },
+    {"base_title": "GhostInTheShell-StandAloneComplex-SolidStateSociety",
+    "shobocal_id": 1917,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "攻殻機動隊Ｓ．Ａ．Ｃ．　ＳＯＬＩＤ　ＳＴＡＴＥ　ＳＯＣＩＥＴＹ"]
+    },
+    {"base_title": "Working2",
+    "shobocal_id": 1885,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "WORKING!!"]
+    },
+    {"base_title": "FairyTail",
+    "shobocal_id": 1755,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＦＡＩＲＹ　ＴＡＩＬ　～フェアリーテイル～"]
+    },
+    {"base_title": "GuinSaga",
+    "shobocal_id": 1565,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "グイン・サーガ "]
+    },
+    {"base_title": "Minamike-Okaeri",
+    "shobocal_id": 1538,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "みなみけ おかえり"]
+    },
+    {"base_title": "Clannad-AfterStory",
+    "shobocal_id": 1462,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "CLANNAD～AFTER STORY～"]
+    },
+    {"base_title": "KiddyGrade",
+    "shobocal_id": 1362,
+    "count_width": 2,
+    "crop": true,
+    "is_progressive": true,
+    "matching_str": [
+        "グイン・サーガ "]
+    },
+    {"base_title": "TengenToppaGurrenLagann",
+    "shobocal_id": 1000,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "天元突破グレンラガン"]
+    },
+    {"base_title": "xxxHOLiC-Kei",
+    "shobocal_id": 1347,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ｘｘｘＨＯＬｉＣ◆継　"]
+    },
+    {"base_title": "xxxHOLiC",
+    "shobocal_id": 745,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ｘｘｘＨＯＬｉＣ　"]
+    },
+    {"base_title": "Mushishi",
+    "shobocal_id": 699,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "蟲師"]
+    },
+    {"base_title": "HanaukyoMaidTeam-LaVerite",
+    "shobocal_id": 362,
+    "count_width": 2,
+    "crop": true,
+    "is_progressive": true,
+    "matching_str": [
+        "花右京メイド隊 La Verite"]
+    },
+    {"base_title": "SteelAngelKurumi2",
+    "shobocal_id": 308,
+    "count_width": 2,
+    "crop": true,
+    "is_progressive": true,
+    "matching_str": [
+        "鋼鉄天使くるみ2式 "]
+    },
+    {"base_title": "SteelAngelKurumi",
+    "shobocal_id": 307,
+    "count_width": 2,
+    "crop": true,
+    "is_progressive": true,
+    "matching_str": [
+        "鋼鉄天使くるみ "]
+    },
+    {"base_title": "GhostInTheShell-S.A.C-2nd-GIG",
+    "shobocal_id": 305,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "攻殻機動隊　Ｓ．Ａ．Ｃ．　２ｎｄ",
+        "攻殻機動隊　S.A.C. 2nd GIG"]
+    },
+    {"base_title": "GhostInTheShell-StandAloneComplex",
+    "shobocal_id": 104,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "攻殻機動隊　STAND ALONE COMPLEX"]
+    },
+    {"base_title": "MobileSuitGundamSeed",
+    "shobocal_id": 19,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "機動戦士ガンダムSEED",
+        "機動戦士ガンダムＳＥＥＤ"]
+    }
 
 ]
