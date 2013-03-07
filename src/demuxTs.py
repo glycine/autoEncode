@@ -140,7 +140,7 @@ def __add_iepg_title_info( info_list ):
 def __analyse_iepg_title( iepg_title ):
 	r = re.compile(r"\[.+?\]")
 	matches = r.findall(iepg_title)
-	flag_removed_iepg_title = re.sub( r"\[.\]", "", iepg_title)
+	flag_removed_iepg_title = re.sub( r"\[.+?\]", "", iepg_title)
 	## flagを探す
 	## 判別に利用するFlag
 	# [字]: 字幕がある
