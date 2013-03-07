@@ -138,7 +138,7 @@ def __add_iepg_title_info( info_list ):
 		))
 
 def __analyse_iepg_title( iepg_title ):
-	r = re.compile(r"\[.\]")
+	r = re.compile(r"\[.+?\]")
 	matches = r.findall(iepg_title)
 	flag_removed_iepg_title = re.sub( r"\[.\]", "", iepg_title)
 	## flagを探す
@@ -183,7 +183,6 @@ def __add_iepg_flag_info( info_list ):
 		))
 
 def __demux_ts( ts_file, service_no, workspace, iepg_flags, util_info ):
-	print("__demux_ts: ",  ts_file, ", ", service_no, ", ", workspace )
 	bon_ts_demux_info = util_info["bon_ts_demux"]
 	base, ext = os.path.splitext( ts_file )
 	# ビデオ & ステレオ出力
