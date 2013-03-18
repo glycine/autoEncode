@@ -15,6 +15,13 @@ import codecs
 import json
 import os.path
 
+class filenames:
+	UTILITY_INFO_FILE = "__utilityInfo.json"
+
+def config_filenames():
+	return
+
+
 def load_info( filename, dir_path ):
 	info_file_path = os.path.join( dir_path, filename )
 	if not ( os.path.exists( info_file_path )
