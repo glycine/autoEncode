@@ -62,7 +62,7 @@ def __parse_args( args ):
 	# 既定値をまとめて設定
 	parser.set_defaults( **parser_defaults )
 
-	# 以下殻オプションの設定
+	# 以下オプションの設定
 	# 読込元のディレクトリ指定用のオプション
 	parser.add_option( "-i", "--inputdir",
 		dest = "input_directory",

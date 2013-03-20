@@ -1,5 +1,5 @@
 {
-	"ts_splitter": 
+	"ts_splitter":
 		{"exec": "C:\\Utility\\TSSplitter\\TsSplitter.exe",
 		"opts": "-EIT -SD -1SEG -SEP3 -SEPA -OVL0,6,0,0,0",
 		"sd_opts": "-EIT -HD -1SEG -SEP3 -SEPA -OVL0,6,0,0,0",
@@ -22,5 +22,9 @@
 	"mme":
 		{"exec": "C:\\Utility\\Mme\\mme.exe",
 		"opts": "-start -quit"
-		}
+		},
+    "caption_2_ass":
+        {"exec": "C:\\Utility\\SubTitleTools\\Caption2Ass_mod1.exe",
+        "format_opt": "-format srt"
+        }
 }

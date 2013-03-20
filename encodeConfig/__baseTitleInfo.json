@@ -1,4 +1,12 @@
 [
+    {"base_title": "Shinryaku-IkaMusume-2012Summer",
+    "shobocal_id": 2914,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "侵略！！イカ娘 2012 SUMMER"]
+    },
     {"base_title": "GJ-bu",
     "shobocal_id": 2877,
     "count_width": 2,
@@ -350,6 +358,15 @@
     "matching_str": [
         "絶園のテンペスト"]
     },
+    {"base_title": "GirlsUndPanzer",
+    "shobocal_id": 2691,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "is_hi_vision": true,
+    "matching_str": [
+        "ガールズ＆パンツァー"]
+    },
     {"base_title": "BusouShinki",
     "shobocal_id": 2683,
     "count_width": 2,
@@ -500,6 +517,14 @@
     "matching_str": [
         "ブレイク ブレイド"]
     },
+    {"base_title": "Hellsing-UltimateOVASeries",
+    "shobocal_id": 2006,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＨＥＬＬＳＩＮＧ　"]
+    },
     {"base_title": "BlackLagoon-Roberta'sBloodTrail",
     "shobocal_id": 1964,
     "count_width": 2,
@@ -562,7 +587,15 @@
     "crop": true,
     "is_progressive": true,
     "matching_str": [
-        "グイン・サーガ "]
+        "キディ・グレイド "]
+    },
+    {"base_title": "CodeGeass-LelouchOfTheRebellionR2",
+    "shobocal_id": 1343,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "コードギアス　反逆のルルーシュＲ２#"]
     },
     {"base_title": "TengenToppaGurrenLagann",
     "shobocal_id": 1000,
@@ -595,6 +628,14 @@
     "is_progressive": true,
     "matching_str": [
         "蟲師"]
+    },
+    {"base_title": "Rizelmine",
+    "shobocal_id": 671,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "りぜるまいん "]
     },
     {"base_title": "HanaukyoMaidTeam-LaVerite",
     "shobocal_id": 362,
