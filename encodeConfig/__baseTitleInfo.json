@@ -400,6 +400,14 @@
     "matching_str": [
         "ベルセルク　黄金時代篇　堕ちた鷹"]
     },
+    {"base_title": "Yurumates3dayPlus",
+    "shobocal_id": 2583,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ゆるめいつ３でぃＰｌｕｓ"]
+    },
     {"base_title": "Driland",
     "shobocal_id": 2596,
     "count_width": 2,
@@ -438,7 +446,10 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "ゆるめいつ３でぃ"]
+        "ゆるめいつ３でぃ"],
+    "non_matching_str": [
+        "Ｐｌｕｓ"
+    ]
     },
     {"base_title": "SakiAchiga-henEpisodeOfSide-A",
     "shobocal_id": 2470,
@@ -455,6 +466,14 @@
     "is_progressive": true,
     "matching_str": [
         "ダンボール戦機Ｗ"]
+    },
+    {"base_title": "ThermaeRomae",
+    "shobocal_id": 2407,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "アニメ『テルマエ・ロマエ』"]
     },
     {"base_title": "HunterxHunter",
     "shobocal_id": 2288,
@@ -595,7 +614,7 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "コードギアス　反逆のルルーシュＲ２#"]
+        "コードギアス　反逆のルルーシュＲ２"]
     },
     {"base_title": "TengenToppaGurrenLagann",
     "shobocal_id": 1000,
@@ -632,7 +651,7 @@
     {"base_title": "Rizelmine",
     "shobocal_id": 671,
     "count_width": 2,
-    "crop": false,
+    "crop": true,
     "is_progressive": true,
     "matching_str": [
         "りぜるまいん "]

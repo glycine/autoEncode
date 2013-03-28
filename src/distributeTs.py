@@ -109,8 +109,17 @@ def __get_my_service_name__(service_name, service_info ):
 
 def __get_my_base_title__( program_name, base_title_info ):
 	# matching_strで示される文字列のリストの中で，program_name中に含まれるものがあれば残す
-	matched_base_title_info = [x for x in base_title_info if len([y for y in x["matching_str"] if program_name.find(y) >= 0]) > 0]
+	matched_base_title_info = [x for x in base_title_info
+							if len([y for y in x["matching_str"] if program_name.find(y) >= 0]) > 0]
 	if len(matched_base_title_info) == 0:
+		return False
+	# non_matching_strの項目が無ければそのまま結果を返す
+	if matched_base_title_info[0].get("non_matching_str") == None:
+		return matched_base_title_info[0]["base_title"]
+	# non_matching_strの文字列が含まれていなければ残す
+	non_match_filtered_result = [x for x in matched_base_title_info[0]["non_matching_str"]
+								if program_name.find(x) >= 0]
+	if not len( non_match_filtered_result ) == 0:
 		return False
 	return matched_base_title_info[0]["base_title"]
 
