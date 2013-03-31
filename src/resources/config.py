@@ -15,7 +15,16 @@ import codecs
 import json
 import os.path
 
+class keys:
+	class service_info:
+		SERVICE_NAME = "service_name"
+		MY_SERVICE_NAME = "my_service_name"
+		SERVICE_NO = "service_no"
+		SHOBOCAL_CHANNEL_ID = "shobocal_channel_id"
+		VIDEO_TYPE = "video_type"
+
 class filenames:
+	SERVICE_INFO_FILE = "__serviceInfo.json"
 	UTILITY_INFO_FILE = "__utilityInfo.json"
 
 def config_filenames():

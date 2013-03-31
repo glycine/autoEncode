@@ -26,5 +26,11 @@
     "caption_2_ass":
         {"exec": "C:\\Utility\\SubTitleTools\\Caption2Ass_mod1.exe",
         "format_opt": "-format srt"
+        },
+    "logo_guillo":
+        {"exec": "C:\\Utility\\logoGuillo\\logoGuillo.exe",
+        "opts": "-outFmt trim -strict",
+        "avs2yuv_path": "C:\\Utility\\avs2yuv\\avs2yuv.exe",
+        "m2v_vfp_path": "C:\\Software\\AviSynth\\plugins\\m2v.vfp"
         }
 }
