@@ -24,6 +24,8 @@ from optparse import OptionParser
 TS_EXT = ".ts"
 # AVSファイルの拡張子
 AVS_EXT = ".avs"
+# CMCut情報が格納されたファイルの拡張子
+CM_INFO_EXT = ".cmCutInfo"
 # AVISynthのテンプレートファイル名
 AVI_SYNTH_TEMPLATE_FILE = "__template.avs"
 PROGRAM_INFO = "__baseTitleInfo.json"
@@ -168,7 +170,19 @@ def __add_crop_width_info( info_list, service_info, video_info ):
 		))
 	return
 
-def __gen_avisynth_script( base_filename, workspace, crop_width, is_crop, avs_template_path):
+def __get_cm_info( workspace_path ):
+	cm_info_filelist = [ os.path.join( workspace_path, x) for x in os.listdir(workspace_path)
+					if x.endswith( CM_INFO_EXT )
+					and os.path.isfile(os.path.join( workspace_path, x))]
+	if not len( cm_info_filelist) > 0:
+		return False
+	cm_info_filepath = cm_info_filelist[0]
+	cm_info_file = open( cm_info_filepath, "r")
+	cm_info = cm_info_file.read()
+	cm_info_file.close()
+	return cm_info
+
+def __gen_avisynth_script( base_filename, workspace, crop_width, is_crop, cm_info, avs_template_path):
 	avs_template_file = open( avs_template_path )
 	avs_template = avs_template_file.read()
 	avs_template_file.close()
@@ -179,6 +193,10 @@ def __gen_avisynth_script( base_filename, workspace, crop_width, is_crop, avs_te
 		avs = re.sub("\${CROP_WIDTH}", str(crop_width), avs)
 	else:
 		avs = re.sub("\${CROP_WIDTH}", "0", avs)
+	if not cm_info == False:
+		avs = re.sub( "#\${TRIM}", cm_info, avs )
+		avs = re.sub( "#IT\(", "IT\(", avs )
+		avs = re.sub( "#ITVFR\(", "ITVFR\(", avs )
 	avs_filename = os.path.join( workspace, (base_filename + AVS_EXT ))
 	avs_file = open(avs_filename, "w")
 	avs_file.write(avs)
@@ -196,7 +214,9 @@ def main():
 	crop_info = __add_crop_info( base_filename_info, program_info)
 	crop_width_info = __add_crop_width_info( crop_info, service_info, video_info)
 	avs_template_file = os.path.join( options.config_directory, AVI_SYNTH_TEMPLATE_FILE )
-	[__gen_avisynth_script( x[4], x[0], x[6], x[5], avs_template_file) for x in crop_width_info]
+	[__gen_avisynth_script( x[4], x[0], x[6], x[5],
+		__get_cm_info( x[0] ),
+		avs_template_file) for x in crop_width_info]
 
 if __name__ == '__main__':
     main()

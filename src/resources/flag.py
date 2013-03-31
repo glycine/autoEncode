@@ -18,8 +18,6 @@ class filenames:
 	SUBTITLE = "__subtitle"
 	# ts splitのflagファイル名
 	SPLIT_TS = "__splitted"
-	# CM カットのflagファイル名
-	CM_CUT = "__cm_cut"
 
 def gen_flag_file( flag_filename, dir_path ):
 	flag_filepath = os.path.join( dir_path, flag_filename )

@@ -29,7 +29,7 @@
         },
     "logo_guillo":
         {"exec": "C:\\Utility\\logoGuillo\\logoGuillo.exe",
-        "opts": "-outFmt trim -strict",
+        "opts": "-outFmt trim",
         "avs2yuv_path": "C:\\Utility\\avs2yuv\\avs2yuv.exe",
         "m2v_vfp_path": "C:\\Software\\AviSynth\\plugins\\m2v.vfp"
         }

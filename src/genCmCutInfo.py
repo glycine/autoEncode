@@ -112,16 +112,15 @@ def main():
 	utility_info_list = config.load_info( config.filenames.UTILITY_INFO_FILE, options.config_directory)
 	# logo_guilloの情報
 	logo_guillo_info = utility_info_list["logo_guillo"]
-	print(logo_info_list)
 	# tsがsplitされているか確認
 	workspace_list = [x for x in workspace_list
 					if flag.check_flag_existence( flag.filenames.SPLIT_TS, x[workspace.keys.WORKSPACE_PATH] )]
-	# すでにcmカットされているか確認
-	workspace_list = [x for x in workspace_list
-					if not flag.check_flag_existence( flag.filenames.CM_CUT, x[workspace.keys.WORKSPACE_PATH])]
 	# cmカット時に出力するファイル名を追加
 	[x.update( {keys.CM_INFO_FILENAME: x[workspace.keys.BASE_NAME] + consts.CM_INFO_EXT} ) for x
 		in workspace_list]
+	# すでにcmカットされているか確認
+	workspace_list = [x for x in workspace_list
+					if not os.path.isfile(os.path.join( x[workspace.keys.WORKSPACE_PATH], x[keys.CM_INFO_FILENAME]))]
 	# serviceのvideotypeを追加
 	[x.update( {config.keys.service_info.VIDEO_TYPE: __get_video_type(x[workspace.keys.SERVICE], service_info_list)})
 		for x in workspace_list
@@ -137,11 +136,6 @@ def main():
 						logo_guillo_info["opts"])
 		for x in workspace_list
 		if not logo_info_list[(x[workspace.keys.SERVICE], x[config.keys.service_info.VIDEO_TYPE])] == None ]
-	[flag.gen_flag_file(flag.filenames.CM_CUT, x[workspace.keys.WORKSPACE_PATH]) for x
-		in workspace_list]
-
-
-
 
 if __name__ == '__main__':
 	main()
