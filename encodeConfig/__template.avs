@@ -13,7 +13,7 @@ AudioDub( last, WavSource( SourceDir + "${BASE_FILENAME}.wav"))
 AssumeFrameBased().ComplementParity()
 #IT( fps=30, ref="TOP", blend=false )
 #Trim( , ) ++ Trim( , ) ++ Trim( , ) ++ Trim( , )
-${TRIM}
+#${TRIM}
 #ITVFR( ref="TOP", diMODE=0, Debug=false)
 
 Crop( ${CROP_WIDTH}, 0, -${CROP_WIDTH}, 0)

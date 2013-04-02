@@ -195,8 +195,8 @@ def __gen_avisynth_script( base_filename, workspace, crop_width, is_crop, cm_inf
 		avs = re.sub("\${CROP_WIDTH}", "0", avs)
 	if not cm_info == False:
 		avs = re.sub( "#\${TRIM}", cm_info, avs )
-		avs = re.sub( "#IT\(", "IT\(", avs )
-		avs = re.sub( "#ITVFR\(", "ITVFR\(", avs )
+		avs = re.sub( "#IT\(", "IT(", avs )
+		avs = re.sub( "#ITVFR\(", "ITVFR(", avs )
 	avs_filename = os.path.join( workspace, (base_filename + AVS_EXT ))
 	avs_file = open(avs_filename, "w")
 	avs_file.write(avs)

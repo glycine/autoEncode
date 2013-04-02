@@ -89,6 +89,7 @@ def __get_video_type( my_service_name , service_info_list ):
 
 def __gen_cm_cut_info( m2v_filename, output_filename, workspace_path, logo_filepath, logo_param_filepath,
 					 exec_path, avs2yuv_path, m2v_vfp_path, opts ):
+	print( "m2v filename: ", m2v_filename)
 	os.system( exec_path + " "
 			+ "-video " + os.path.join( workspace_path, m2v_filename ) + " "
 			+ "-lgd " + logo_filepath + " "
@@ -135,7 +136,7 @@ def main():
 						logo_guillo_info["m2v_vfp_path"],
 						logo_guillo_info["opts"])
 		for x in workspace_list
-		if not logo_info_list[(x[workspace.keys.SERVICE], x[config.keys.service_info.VIDEO_TYPE])] == None ]
+		if not logo_info_list.get((x[workspace.keys.SERVICE], x[config.keys.service_info.VIDEO_TYPE])) == None ]
 
 if __name__ == '__main__':
 	main()
