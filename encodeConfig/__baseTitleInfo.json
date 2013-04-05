@@ -1,4 +1,93 @@
 [
+    {"base_title": "ALetterToMomo",
+    "shobocal_id": 2960,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ももへの手紙"]
+    },
+    {"base_title": "DD-FistOfTheNorthStar",
+    "shobocal_id": 2952,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＤＤ北斗の拳"]
+    },
+    {"base_title": "UtaNoPrinceSama-MajiLove2000percent",
+    "shobocal_id": 2948,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "うたの☆プリンスさまっ♪マジＬＯＶＥ２０００％"]
+    },
+    {"base_title": "DevilSurvivor2-TheAnimation",
+    "shobocal_id": 2946,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＤＥＶＩＬ　ＳＵＲＶＩＶＯＲ２　ｔｈｅ　ＡＮＩＭＡＴＩＯＮ"]
+    },
+    {"base_title": "DansaiBunriNoCrimeEdge",
+    "shobocal_id": 2938,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "断裁分離のクライムエッジ"]
+    },
+    {"base_title": "PhotoKano",
+    "shobocal_id": 2934,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "フォトカノ"]
+    },
+    {"base_title": "TheFlowersOfEvil",
+    "shobocal_id": 2929,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "惡の華"]
+    },
+    {"base_title": "HayateNoGotoku4",
+    "shobocal_id": 2928,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ハヤテのごとく！Ｃｕｔｉｅｓ"]
+    },
+    {"base_title": "HatarakuMao-sama",
+    "shobocal_id": 2925,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "はたらく魔王さま！"]
+    },
+    {"base_title": "RDG-RedDataGirl",
+    "shobocal_id": 2921,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "レッドデータガール"]
+    },
+    {"base_title": "MajesticPrince",
+    "shobocal_id": 2917,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "銀河機攻隊　マジェスティックプリンス",
+        "銀河機攻隊　マジェスティックプリンス"]
+    },
     {"base_title": "Shinryaku-IkaMusume-2012Summer",
     "shobocal_id": 2914,
     "count_width": 2,
@@ -6,6 +95,30 @@
     "is_progressive": true,
     "matching_str": [
         "侵略！！イカ娘 2012 SUMMER"]
+    },
+    {"base_title": "YahariOreNoSeishunLoveComeWaMachigatteiru",
+    "shobocal_id": 2911,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "やはり俺の青春ラブコメはまちがっている。"]
+    },
+    {"base_title": "DateALive",
+    "shobocal_id": 2910,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "デート・ア・ライブ"]
+    },
+    {"base_title": "Konodan-Merman",
+    "shobocal_id": 2881,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "この男子、人魚ひろいました。"]
     },
     {"base_title": "GJ-bu",
     "shobocal_id": 2877,
@@ -140,7 +253,8 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "ビビッドレッド・オペレーション"]
+        "ビビッドレッド・オペレーション",
+        "ビビッドレッド・オぺレーション"]
     },
     {"base_title": "Kotoura-san",
     "shobocal_id": 2834,
@@ -475,6 +589,22 @@
     "matching_str": [
         "アニメ『テルマエ・ロマエ』"]
     },
+    {"base_title": "InuXBokuSS",
+    "shobocal_id": 2377,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "妖狐×僕ＳＳ"]
+    },
+    {"base_title": "Konodan-Alien",
+    "shobocal_id": 2335,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "この男子、宇宙人と戦えます。～僕らのセカイのまもり方～"]
+    },
     {"base_title": "HunterxHunter",
     "shobocal_id": 2288,
     "count_width": 2,
@@ -482,6 +612,14 @@
     "is_progressive": true,
     "matching_str": [
         "ＨＵＮＴＥＲ×ＨＵＮＴＥＲ"]
+    },
+    {"base_title": "Norageki",
+    "shobocal_id": 2284,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ノラゲキ！"]
     },
     {"base_title": "PhiBrain-KamiNoPuzzle",
     "shobocal_id": 2257,
@@ -576,6 +714,14 @@
     "matching_str": [
         "ＦＡＩＲＹ　ＴＡＩＬ　～フェアリーテイル～"]
     },
+    {"base_title": "Kanokon-ManatsuNoDaishanikusai",
+    "shobocal_id": 1708,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "かのこん～真夏の大謝肉祭～"]
+    },
     {"base_title": "GuinSaga",
     "shobocal_id": 1565,
     "count_width": 2,
@@ -616,6 +762,14 @@
     "matching_str": [
         "コードギアス　反逆のルルーシュＲ２"]
     },
+    {"base_title": "Golgo13",
+    "shobocal_id": 1339,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ゴルゴ１３"]
+    },
     {"base_title": "TengenToppaGurrenLagann",
     "shobocal_id": 1000,
     "count_width": 2,
@@ -630,7 +784,18 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "ｘｘｘＨＯＬｉＣ◆継　"]
+        "ｘｘｘＨＯＬｉＣ◆継　"],
+    "non_matching_str": [
+        "劇場版"
+    ]
+    },
+    {"base_title": "xxxHOLiC-Movie",
+    "shobocal_id": 979,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "劇場版　ｘｘｘＨＯＬｉＣ　真夏ノ夜ノ夢"]
     },
     {"base_title": "xxxHOLiC",
     "shobocal_id": 745,
@@ -638,7 +803,10 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "ｘｘｘＨＯＬｉＣ　"]
+        "ｘｘｘＨＯＬｉＣ　"],
+    "non_matching_str": [
+        "劇場版"
+    ]
     },
     {"base_title": "Mushishi",
     "shobocal_id": 699,
@@ -655,6 +823,14 @@
     "is_progressive": true,
     "matching_str": [
         "りぜるまいん "]
+    },
+    {"base_title": "Karas",
+    "shobocal_id": 615,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "鴉－ＫＡＲＡＳ－"]
     },
     {"base_title": "HanaukyoMaidTeam-LaVerite",
     "shobocal_id": 362,
