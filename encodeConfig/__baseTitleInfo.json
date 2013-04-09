@@ -1,4 +1,20 @@
 [
+    {"base_title": "Driland2",
+    "shobocal_id": 2975,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "探検ドリランド　－１０００年の真宝－"]
+    },
+    {"base_title": "TheGlassMaskDesuga",
+    "shobocal_id": 2967,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ガラスの仮面ですが"]
+    },
     {"base_title": "ALetterToMomo",
     "shobocal_id": 2960,
     "count_width": 2,
@@ -6,6 +22,14 @@
     "is_progressive": true,
     "matching_str": [
         "ももへの手紙"]
+    },
+    {"base_title": "ZettaiBoeiLeviathan",
+    "shobocal_id": 2954,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "絶対防衛レヴィアタン"]
     },
     {"base_title": "DD-FistOfTheNorthStar",
     "shobocal_id": 2952,
@@ -21,7 +45,16 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "うたの☆プリンスさまっ♪マジＬＯＶＥ２０００％"]
+        "うたの☆プリンスさまっ♪マジＬＯＶＥ２０００％",
+        "うたの☆プリンスさまっ♪ マジLOVE2000％"]
+    },
+    {"base_title": "GargantiaOnTheVerdurousPlanet",
+    "shobocal_id": 2947,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "翠星のガルガンティア"]
     },
     {"base_title": "DevilSurvivor2-TheAnimation",
     "shobocal_id": 2946,
@@ -31,6 +64,46 @@
     "matching_str": [
         "ＤＥＶＩＬ　ＳＵＲＶＩＶＯＲ２　ｔｈｅ　ＡＮＩＭＡＴＩＯＮ"]
     },
+    {"base_title": "NamiuchigiwaNoMuromi-san",
+    "shobocal_id": 2945,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "波打際のむろみさん"]
+    },
+    {"base_title": "Yuyushiki",
+    "shobocal_id": 2943,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ゆゆ式"]
+    },
+    {"base_title": "Aiura",
+    "shobocal_id": 2941,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "あいうら"]
+    },
+    {"base_title": "SparrowsHotel",
+    "shobocal_id": 2940,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "スパロウズホテル"]
+    },
+    {"base_title": "Mushibugyo",
+    "shobocal_id": 2939,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ムシブギョー"]
+    },
     {"base_title": "DansaiBunriNoCrimeEdge",
     "shobocal_id": 2938,
     "count_width": 2,
@@ -39,6 +112,14 @@
     "matching_str": [
         "断裁分離のクライムエッジ"]
     },
+    {"base_title": "AttackOnTitan",
+    "shobocal_id": 2935,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "進撃の巨人"]
+    },
     {"base_title": "PhotoKano",
     "shobocal_id": 2934,
     "count_width": 2,
@@ -46,6 +127,23 @@
     "is_progressive": true,
     "matching_str": [
         "フォトカノ"]
+    },
+    {"base_title": "Arata-TheLegend",
+    "shobocal_id": 2932,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "アラタカンガタリ　～革神語～"]
+    },
+    {"base_title": "HyakkaRyoran-SamuraiBride",
+    "shobocal_id": 2930,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "百花繚乱サムライブライド",
+        "百花繚乱　サムライブライド"]
     },
     {"base_title": "TheFlowersOfEvil",
     "shobocal_id": 2929,
@@ -79,6 +177,14 @@
     "matching_str": [
         "レッドデータガール"]
     },
+    {"base_title": "HaiyoreNyaruko-san-W",
+    "shobocal_id": 2919,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "這いよれ！ニャル子さんＷ"]
+    },
     {"base_title": "MajesticPrince",
     "shobocal_id": 2917,
     "count_width": 2,
@@ -86,7 +192,16 @@
     "is_progressive": true,
     "matching_str": [
         "銀河機攻隊　マジェスティックプリンス",
-        "銀河機攻隊　マジェスティックプリンス"]
+        "銀河機攻隊　マジェスティックプリンス",
+        "銀河機攻隊マジェスティックプリンス"]
+    },
+    {"base_title": "OrenoImoutoGaKonnaniKawaiiWakegaNai2",
+    "shobocal_id": 2916,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "俺の妹がこんなに可愛いわけがない。"]
     },
     {"base_title": "Shinryaku-IkaMusume-2012Summer",
     "shobocal_id": 2914,
@@ -95,6 +210,14 @@
     "is_progressive": true,
     "matching_str": [
         "侵略！！イカ娘 2012 SUMMER"]
+    },
+    {"base_title": "Karneval",
+    "shobocal_id": 2912,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "カーニヴァル"]
     },
     {"base_title": "YahariOreNoSeishunLoveComeWaMachigatteiru",
     "shobocal_id": 2911,
@@ -220,7 +343,8 @@
     "matching_str": [
         "AKB0048 next stage",
         "ＡＫＢ００４８　ｎｅｘｔ　ｓｔａｇｅ",
-        "ＡＫＢ００４８"]
+        "ＡＫＢ００４８",
+        "AKB0048 next Stage"]
     },
     {"base_title": "MaoyuMaoYusha",
     "shobocal_id": 2838,
@@ -528,7 +652,9 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "探検ドリランド"]
+        "探検ドリランド"],
+    "non_matching_str": [
+        "１０００年の真宝"]
     },
     {"base_title": "Kingdom",
     "shobocal_id": 2554,
@@ -538,6 +664,14 @@
     "matching_str": [
         "アニメ　キングダム"]
     },
+    {"base_title": "PhiBrain2-KamiNoPuzzle",
+    "shobocal_id": 2536,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "アニメ　ファイ・ブレイン２～神のパズル"]
+    },
     {"base_title": "GingaHeKickoff",
     "shobocal_id": 2523,
     "count_width": 2,
@@ -545,6 +679,14 @@
     "is_progressive": true,
     "matching_str": [
         "アニメ　銀河へキックオフ！！"]
+    },
+    {"base_title": "SpaceBattleshipYamato2199",
+    "shobocal_id": 2498,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "宇宙戦艦ヤマト２１９９"]
     },
     {"base_title": "UchuuKyoudai",
     "shobocal_id": 2478,
@@ -832,6 +974,15 @@
     "matching_str": [
         "鴉－ＫＡＲＡＳ－"]
     },
+    {"base_title": "MobuileSuitGundamSeedDestiny",
+    "shobocal_id": 477,
+    "count_width": 2,
+    "crop": true,
+    "is_progressive": true,
+    "matching_str": [
+        "機動戦士ガンダムＳＥＥＤ　ＤＥＳＴＩＮＹ",
+        "機動戦士ガンダムSEED DESTINY"]
+    },
     {"base_title": "HanaukyoMaidTeam-LaVerite",
     "shobocal_id": 362,
     "count_width": 2,
@@ -880,7 +1031,10 @@
     "is_progressive": true,
     "matching_str": [
         "機動戦士ガンダムSEED",
-        "機動戦士ガンダムＳＥＥＤ"]
+        "機動戦士ガンダムＳＥＥＤ"],
+    "non_matching_str": [
+        "ＤＥＳＴＩＮＹ",
+        "DESTINY"]
     }
 
 ]
