@@ -41,6 +41,12 @@
 	"shobocal_channel_id": 204,
 	"video_type": "hdtv_s"
 	},
+    {"service_name": "ＷＯＷＯＷシネマ",
+    "my_service_name": "wowowCinema",
+    "service_no": 193,
+    "shobocal_channel_id": 76,
+    "video_type": "hdtv_s"
+    },
 	{"service_name": "ＢＳ１１",
 	"my_service_name": "bs11",
 	"service_no": 211,
@@ -58,7 +64,7 @@
 	"service_no": 223,
 	"shobocal_channel_id": 26,
 	"video_type": "sdtv"
-	},	
+	},
 	{"service_name": "ＢＳアニマックス",
 	"my_service_name": "bsAnimax",
 	"service_no": 236,

@@ -1,4 +1,28 @@
 [
+    {"base_title": "LibraryWar-TheWingsOfRevolution",
+    "shobocal_id": 3003,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "図書館戦争　革命のつばさ"]
+    },
+    {"base_title": "StrikeWitches-Movie",
+    "shobocal_id": 3000,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ストライクウィッチーズ　劇場版"]
+    },
+    {"base_title": "TheGlassMaskDesugaZ",
+    "shobocal_id": 2999,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ガラスの仮面ですがＺ"]
+    },
     {"base_title": "Driland2",
     "shobocal_id": 2975,
     "count_width": 2,
@@ -7,13 +31,23 @@
     "matching_str": [
         "探検ドリランド　－１０００年の真宝－"]
     },
+    {"base_title": "LittleBattlersExperience-WARS",
+    "shobocal_id": 2973,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ダンボール戦機ウォーズ"]
+    },
     {"base_title": "TheGlassMaskDesuga",
     "shobocal_id": 2967,
     "count_width": 2,
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "ガラスの仮面ですが"]
+        "ガラスの仮面ですが"],
+    "non_matching_str": [
+        "ガラスの仮面ですがＺ"]
     },
     {"base_title": "ALetterToMomo",
     "shobocal_id": 2960,
@@ -112,6 +146,22 @@
     "matching_str": [
         "断裁分離のクライムエッジ"]
     },
+    {"base_title": "ToaruKagakuNoRailgunS",
+    "shobocal_id": 2937,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "とある科学の超電磁砲Ｓ"]
+    },
+    {"base_title": "ValvraveTheLiberator",
+    "shobocal_id": 2936,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "革命機ヴァルヴレイヴ"]
+    },
     {"base_title": "AttackOnTitan",
     "shobocal_id": 2935,
     "count_width": 2,
@@ -160,6 +210,14 @@
     "is_progressive": true,
     "matching_str": [
         "ハヤテのごとく！Ｃｕｔｉｅｓ"]
+    },
+    {"base_title": "TheHentaiPrinceAndTheStonyCat",
+    "shobocal_id": 2926,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "変態王子と笑わない猫。"]
     },
     {"base_title": "HatarakuMao-sama",
     "shobocal_id": 2925,
@@ -225,7 +283,8 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "やはり俺の青春ラブコメはまちがっている。"]
+        "やはり俺の青春ラブコメはまちがっている。",
+        "やはり俺の青春ラブコメはまちがっている"]
     },
     {"base_title": "DateALive",
     "shobocal_id": 2910,
@@ -630,13 +689,15 @@
     "matching_str": [
         "さくら荘のペットな彼女"]
     },
-    {"base_title": "Berserk",
+    {"base_title": "Berserk-Movie",
     "shobocal_id": 2611,
     "count_width": 2,
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "ベルセルク　黄金時代篇　堕ちた鷹"]
+        "ベルセルク　黄金時代篇　堕ちた鷹",
+        "ベルセルク　黄金時代篇Ⅰ　覇王の卵",
+        "ベルセルク　黄金時代篇Ⅱ　ドルドレイ攻略"]
     },
     {"base_title": "Yurumates3dayPlus",
     "shobocal_id": 2583,
@@ -848,6 +909,14 @@
     "matching_str": [
         "WORKING!!"]
     },
+    {"base_title": "Katanagatari",
+    "shobocal_id": 1827,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "刀語＜ノイタミナ＞"]
+    },
     {"base_title": "FairyTail",
     "shobocal_id": 1755,
     "count_width": 2,
@@ -974,10 +1043,18 @@
     "matching_str": [
         "鴉－ＫＡＲＡＳ－"]
     },
+    {"base_title": "CowboyBebop",
+    "shobocal_id": 538,
+    "count_width": 2,
+    "crop": true,
+    "is_progressive": true,
+    "matching_str": [
+        "カウボーイビバップ"]
+    },
     {"base_title": "MobuileSuitGundamSeedDestiny",
     "shobocal_id": 477,
     "count_width": 2,
-    "crop": true,
+    "crop": false,
     "is_progressive": true,
     "matching_str": [
         "機動戦士ガンダムＳＥＥＤ　ＤＥＳＴＩＮＹ",
@@ -990,6 +1067,14 @@
     "is_progressive": true,
     "matching_str": [
         "花右京メイド隊 La Verite"]
+    },
+    {"base_title": "SteelAngelKurumi-OVA",
+    "shobocal_id": 313,
+    "count_width": 2,
+    "crop": true,
+    "is_progressive": true,
+    "matching_str": [
+        "鋼鉄天使くるみ 零 "]
     },
     {"base_title": "SteelAngelKurumi2",
     "shobocal_id": 308,
