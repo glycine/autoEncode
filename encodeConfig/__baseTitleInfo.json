@@ -1,4 +1,12 @@
 [
+    {"base_title": "Kingdom2",
+    "shobocal_id": 3034,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "アニメ　キングダム２"]
+    },
     {"base_title": "LibraryWar-TheWingsOfRevolution",
     "shobocal_id": 3003,
     "count_width": 2,
@@ -717,13 +725,23 @@
     "non_matching_str": [
         "１０００年の真宝"]
     },
+    {"base_title": "RurouniKenshin-TrustAndBetrayal",
+    "shobocal_id": 2580,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "るろうに剣心－明治剣客浪漫譚－　追憶編"]
+    },
     {"base_title": "Kingdom",
     "shobocal_id": 2554,
     "count_width": 2,
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "アニメ　キングダム"]
+        "アニメ　キングダム"],
+    "non_matching_str": [
+        "アニメ　キングダム２"]
     },
     {"base_title": "PhiBrain2-KamiNoPuzzle",
     "shobocal_id": 2536,
@@ -790,7 +808,16 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "アニメ『テルマエ・ロマエ』"]
+        "アニメ『テルマエ・ロマエ』",
+        "テルマエ・ロマエ"]
+    },
+    {"base_title": "NiseMonogatari",
+    "shobocal_id": 2396,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "偽物語　＃"]
     },
     {"base_title": "InuXBokuSS",
     "shobocal_id": 2377,
@@ -857,6 +884,14 @@
     "matching_str": [
         "ＳＴＡＲ　ＤＲＩＶＥＲ",
         "スタードライバー"]
+    },
+    {"base_title": "ToaruMajutsuNoIndex2",
+    "shobocal_id": 2029,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "とある魔術の禁書目録Ⅱ"]
     },
     {"base_title": "HyakkaRyoran-SamuraiGirls",
     "shobocal_id": 2022,
@@ -949,6 +984,16 @@
     "matching_str": [
         "みなみけ おかえり"]
     },
+    {"base_title": "ToaruMajutsuNoIndex",
+    "shobocal_id": 1487,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "とある魔術の禁書目録"],
+    "non_matching_str": [
+        "劇場版"]
+    },
     {"base_title": "Clannad-AfterStory",
     "shobocal_id": 1462,
     "count_width": 2,
@@ -1007,6 +1052,14 @@
     "is_progressive": true,
     "matching_str": [
         "劇場版　ｘｘｘＨＯＬｉＣ　真夏ノ夜ノ夢"]
+    },
+    {"base_title": "LegendOfTheGlacticHeroes",
+    "shobocal_id": 980,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "銀河英雄伝説　本伝"]
     },
     {"base_title": "xxxHOLiC",
     "shobocal_id": 745,
@@ -1120,6 +1173,39 @@
     "non_matching_str": [
         "ＤＥＳＴＩＮＹ",
         "DESTINY"]
-    }
+    },
 
+    {"base_title": "NHKSpecial",
+    "shobocal_id": -100,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": false,
+    "matching_str": [
+        "ＮＨＫスペシャル"]
+    },
+    {"base_title": "HiVisionSpecial-Frontier",
+    "shobocal_id": -101,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": false,
+    "matching_str": [
+        "ハイビジョン特集　フロンティア"]
+    },
+    {"base_title": "BSWorldDocumentary",
+    "shobocal_id": -102,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": false,
+    "matching_str": [
+        "ＢＳ世界のドキュメンタリー"]
+    },
+    {"base_title": "HiVisionSpecial",
+    "shobocal_id": -103,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": false,
+    "matching_str": [
+        "ハイビジョン特集",
+        "プレミアムアーカイブス　ＨＶ特集"]
+    }
 ]

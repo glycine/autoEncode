@@ -1,4 +1,10 @@
 [
+    {"service_name": "ＮＨＫＢＳ１",
+    "my_service_name": "bs1",
+    "service_no": 101,
+    "shobocal_channel_id": 9,
+    "video_type": "hdtv_s"
+    },
 	{"service_name": "ＮＨＫＢＳプレミアム",
 	"my_service_name": "bsPremium",
 	"service_no": 103,
