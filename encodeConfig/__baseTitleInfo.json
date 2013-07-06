@@ -1,4 +1,78 @@
 [
+    {"base_title": "MajiDeOtakuNaEnglishRibbon-chan-TheTV",
+    "shobocal_id": 3061,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "マジでオタクなイングリッシュ！りぼんちゃん　The　TV"]
+    },
+    {"base_title": "Senyu",
+    "shobocal_id": 3058,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "戦勇。"]
+    },
+    {"base_title": "GifuuDoudou-KanetsuguToKeiji",
+    "shobocal_id": 3056,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "義風堂々！！兼続と慶次"]
+    },
+    {"base_title": "BrothersConflict",
+    "shobocal_id": 3055,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＢＲＯＴＨＥＲＳ　ＣＯＮＦＬＩＣＴ",
+        "ブラザーズコンフリクト",
+        "BROTHERS CONFLICT(ブラザーズ コンフリクト)"]
+    },
+    {"base_title": "ChroniclesOfTheGoingHomeClub",
+    "shobocal_id": 3045,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "帰宅部活動記録　＃"]
+    },
+    {"base_title": "Danganronpa-TheAnimation",
+    "shobocal_id": 3043,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ダンガンロンパ　希望の学園と絶望の高校生　Ｔｈｅ　Ａｎｉｍａｔｉｏｎ　＃"]
+    },
+    {"base_title": "LoveLab",
+    "shobocal_id": 3042,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "恋愛ラボ　♯"]
+    },
+    {"base_title": "StellaWomen'sAcademy-HighSchoolDivisionClassC3",
+    "shobocal_id": 3041,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ステラ女学院高等科Ｃ３部"]
+    },
+    {"base_title": "Ro-Kyu-Bu-SS",
+    "shobocal_id": 3040,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ロウきゅーぶ！SS"]
+    },
     {"base_title": "Kingdom2",
     "shobocal_id": 3034,
     "count_width": 2,
@@ -6,6 +80,54 @@
     "is_progressive": true,
     "matching_str": [
         "アニメ　キングダム２"]
+    },
+    {"base_title": "Free",
+    "shobocal_id": 3031,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "Ｆｒｅｅ！"]
+    },
+    {"base_title": "RecorderAndRandsell-Mi",
+    "shobocal_id": 3026,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "リコーダーとランドセル ミ☆ #"]
+    },
+    {"base_title": "Tamayura-MoreAggressive",
+    "shobocal_id": 3020,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "たまゆら～もあぐれっしぶ～"]
+    },
+    {"base_title": "DogAndScissors",
+    "shobocal_id": 3019,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "犬とハサミは使いよう"]
+    },
+    {"base_title": "RozenMaiden-Zuruckspulen",
+    "shobocal_id": 3015,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ローゼンメイデン"]
+    },
+    {"base_title": "Symphogear-G",
+    "shobocal_id": 3013,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "戦姫絶唱シンフォギアＧ"]
     },
     {"base_title": "LibraryWar-TheWingsOfRevolution",
     "shobocal_id": 3003,
@@ -725,6 +847,14 @@
     "non_matching_str": [
         "１０００年の真宝"]
     },
+    {"base_title": "RurouniKenshin-Reflection",
+    "shobocal_id": 2581,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "るろうに剣心－明治剣客浪漫譚－　星霜編"]
+    },
     {"base_title": "RurouniKenshin-TrustAndBetrayal",
     "shobocal_id": 2580,
     "count_width": 2,
@@ -732,6 +862,14 @@
     "is_progressive": true,
     "matching_str": [
         "るろうに剣心－明治剣客浪漫譚－　追憶編"]
+    },
+    {"base_title": "RurouniKenshin-NewKyotoArc",
+    "shobocal_id": 2579,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "るろうに剣心－明治剣客浪漫譚－　新京都編"]
     },
     {"base_title": "Kingdom",
     "shobocal_id": 2554,
@@ -819,6 +957,22 @@
     "matching_str": [
         "偽物語　＃"]
     },
+    {"base_title": "GhostInTheShell-StandAloneComplex-2ndGIG-IndividualEleven",
+    "shobocal_id": 2395,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "攻殻機動隊S.A.C.2nd GIG Individual Eleven"]
+    },
+    {"base_title": "GhostInTheShell-StandAloneComplex-TheLaughingMan",
+    "shobocal_id": 2394,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "攻殻機動隊STAND ALONE COMPLEX The Laughing Man"]
+    },
     {"base_title": "InuXBokuSS",
     "shobocal_id": 2377,
     "count_width": 2,
@@ -875,6 +1029,14 @@
     "is_progressive": true,
     "matching_str": [
         "青の祓魔師"]
+    },
+    {"base_title": "Freezing",
+    "shobocal_id": 2074,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "フリージング"]
     },
     {"base_title": "StarDriver-KagayakiNoTakuto",
     "shobocal_id": 2044,
@@ -934,7 +1096,8 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "攻殻機動隊Ｓ．Ａ．Ｃ．　ＳＯＬＩＤ　ＳＴＡＴＥ　ＳＯＣＩＥＴＹ"]
+        "攻殻機動隊Ｓ．Ａ．Ｃ．　ＳＯＬＩＤ　ＳＴＡＴＥ　ＳＯＣＩＥＴＹ",
+        "攻殻機動隊S.A.C. SSS -ANOTHER DIMENSION-"]
     },
     {"base_title": "Working2",
     "shobocal_id": 1885,
@@ -984,6 +1147,14 @@
     "matching_str": [
         "みなみけ おかえり"]
     },
+    {"base_title": "KaraNoKyokai",
+    "shobocal_id": 1536,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "劇場版　空の境界"]
+    },
     {"base_title": "ToaruMajutsuNoIndex",
     "shobocal_id": 1487,
     "count_width": 2,
@@ -1026,14 +1197,6 @@
     "matching_str": [
         "ゴルゴ１３"]
     },
-    {"base_title": "TengenToppaGurrenLagann",
-    "shobocal_id": 1000,
-    "count_width": 2,
-    "crop": false,
-    "is_progressive": true,
-    "matching_str": [
-        "天元突破グレンラガン"]
-    },
     {"base_title": "xxxHOLiC-Kei",
     "shobocal_id": 1347,
     "count_width": 2,
@@ -1044,6 +1207,30 @@
     "non_matching_str": [
         "劇場版"
     ]
+    },
+    {"base_title": "DennoCoil",
+    "shobocal_id": 1028,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "電脳コイル"]
+    },
+    {"base_title": "RurouniKenshin-RequiemForTheIshinPatriots",
+    "shobocal_id": 1015,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "るろうに剣心－明治剣客浪漫譚－　維新志士への鎮魂歌"]
+    },
+    {"base_title": "TengenToppaGurrenLagann",
+    "shobocal_id": 1000,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "天元突破グレンラガン"]
     },
     {"base_title": "xxxHOLiC-Movie",
     "shobocal_id": 979,
@@ -1056,10 +1243,18 @@
     {"base_title": "LegendOfTheGlacticHeroes",
     "shobocal_id": 980,
     "count_width": 2,
-    "crop": false,
+    "crop": true,
     "is_progressive": true,
     "matching_str": [
         "銀河英雄伝説　本伝"]
+    },
+    {"base_title": "Kemonozume",
+    "shobocal_id": 905,
+    "count_width": 2,
+    "crop": true,
+    "is_progressive": true,
+    "matching_str": [
+        "ケモノヅメ #"]
     },
     {"base_title": "xxxHOLiC",
     "shobocal_id": 745,
@@ -1160,7 +1355,8 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "攻殻機動隊　STAND ALONE COMPLEX"]
+        "攻殻機動隊　STAND ALONE COMPLEX",
+        "攻殻機動隊 ＳＴＡＮＤ ＡＬＯＮＥ ＣＯＭＰＬＥＸ#"]
     },
     {"base_title": "MobileSuitGundamSeed",
     "shobocal_id": 19,
@@ -1207,5 +1403,13 @@
     "matching_str": [
         "ハイビジョン特集",
         "プレミアムアーカイブス　ＨＶ特集"]
+    },
+    {"base_title": "GundamLiveEntertainment-RedPortrait-CharAndFullFrontal",
+    "shobocal_id": -201,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "特：赤の肖像～シャア、そしてフロンタルへ～特別版"]
     }
 ]
