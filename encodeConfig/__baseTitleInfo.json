@@ -1,4 +1,266 @@
 [
+    {"base_title": "SamuraiFlamenco",
+    "shobocal_id": 3192,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "サムライフラメンコ"]
+    },
+    {"base_title": "Galileidonna",
+    "shobocal_id": 3191,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ガリレイドンナ"]
+    },
+    {"base_title": "Meganebu",
+    "shobocal_id": 3189,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "メガネブ！"]
+    },
+    {"base_title": "YozakuraQuartet-HanaNoUta",
+    "shobocal_id": 3187,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "夜桜四重奏-ハナノウタ-",
+        "夜桜四重奏～ハナノウタ～"]
+    },
+    {"base_title": "ShougekiGouraigan",
+    "shobocal_id": 3185,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "衝撃ゴウライガン！！"]
+    },
+    {"base_title": "Coppelion",
+    "shobocal_id": 3184,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "コッペリオン"]
+    },
+    {"base_title": "PhiBrain-PuzzleOfGod3",
+    "shobocal_id": 3177,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "アニメ　ファイ・ブレイン３～神のパズル"]
+    },
+    {"base_title": "LogHorizon",
+    "shobocal_id": 3176,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "アニメ　ログ・ホライズン"]
+    },
+    {"base_title": "Kuroko'sBasketBall",
+    "shobocal_id": 3175,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "黒子のバスケ"]
+    },
+    {"base_title": "BlazblueAlterMemory",
+    "shobocal_id": 3169,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＢＬＡＺＢＬＵＥ　ＡＬＴＥＲ　ＭＥＭＯＲＹ"]
+    },
+    {"base_title": "Freezing-Vibration",
+    "shobocal_id": 3168,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "フリージング ヴァイブレーション",
+        "フリージング　ヴァイブレーション"]
+    },
+    {"base_title": "TokyoRavens",
+    "shobocal_id": 3167,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "東京レイヴンズ"]
+    },
+    {"base_title": "OutbreakCompany",
+    "shobocal_id": 3166,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "アウトブレイクカンパニー",
+        "アウトブレイク・カンパニー"]
+    },
+    {"base_title": "GoldenTime",
+    "shobocal_id": 3165,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ゴールデンタイム"]
+    },
+    {"base_title": "BeyondTheBoundary",
+    "shobocal_id": 3163,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "境界の彼方"]
+    },
+    {"base_title": "Kyousogiga",
+    "shobocal_id": 3162,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "京騒戯画"]
+    },
+    {"base_title": "NagiNoAsukara",
+    "shobocal_id": 3161,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "凪のあすから"]
+    },
+    {"base_title": "KillLaKill",
+    "shobocal_id": 3160,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "キルラキル"]
+    },
+    {"base_title": "YowamushiPedal",
+    "shobocal_id": 3159,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "弱虫ペダル"]
+    },
+    {"base_title": "WhiteAlbum2",
+    "shobocal_id": 3158,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＷＨＩＴＥ　ＡＬＢＵＭ２",
+        "WHITE ALBUM2"]
+    },
+    {"base_title": "MissMonochrome-TheAnimation",
+    "shobocal_id": 3156,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ミス・モノクローム　Ｔｈｅ　Ａｎｉｍａｔｉｏｎ"]
+    },
+    {"base_title": "Gingitsune",
+    "shobocal_id": 3155,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ぎんぎつね"]
+    },
+    {"base_title": "WalkureRomanze",
+    "shobocal_id": 3154,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ワルキューレロマンツェ"]
+    },
+    {"base_title": "WannaBeTheStrongestInTheWorld",
+    "shobocal_id": 3153,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "世界でいちばん強くなりたい！"]
+    },
+    {"base_title": "LittleBusters-Refrain",
+    "shobocal_id": 3152,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "リトルバスターズ！～Refrain～",
+        "リトルバスターズ！　～Ｒｅｆｒａｉｎ～"]
+    },
+    {"base_title": "ICouldn'tBecomeAHero-SoIReluctantlyDecidedToGetAJob",
+    "shobocal_id": 3151,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "勇者になれなかった俺はしぶしぶ就職を決意しました。"]
+    },
+    {"base_title": "MyMentalChoicesAreCompletelyInterferingWithMySchoolRomanticComedy",
+    "shobocal_id": 3144,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "俺の脳内選択肢が、学園ラブコメを全力で邪魔している"]
+    },
+    {"base_title": "UnbreakableMachine-Doll",
+    "shobocal_id": 3143,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "機巧少女は傷つかない"]
+    },
+    {"base_title": "InfiniteStratos2",
+    "shobocal_id": 3142,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "インフィニット・ストラトス２",
+        "インフィニットストラトス２"]
+    },
+    {"base_title": "StrikeTheBlood",
+    "shobocal_id": 3141,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ストライク・ザ・ブラッド"]
+    },
+    {"base_title": "NonNonBiyori",
+    "shobocal_id": 3137,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "のんのんびより"]
+    },
+    {"base_title": "ArpeggioOfBlueSteel-ArsNova",
+    "shobocal_id": 3136,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "蒼き鋼のアルペジオ"]
+    },
     {"base_title": "MajiDeOtakuNaEnglishRibbon-chan-TheTV",
     "shobocal_id": 3061,
     "count_width": 2,
@@ -21,7 +283,8 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "義風堂々！！兼続と慶次"]
+        "義風堂々！！兼続と慶次",
+        "義風堂々!!兼続と慶次"]
     },
     {"base_title": "BrothersConflict",
     "shobocal_id": 3055,
@@ -33,13 +296,55 @@
         "ブラザーズコンフリクト",
         "BROTHERS CONFLICT(ブラザーズ コンフリクト)"]
     },
+    {"base_title": "Hakkenden-TohoHakkenIbun",
+    "shobocal_id": 3053,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "八犬伝－東方八犬異聞－",
+        "八犬伝―東方八犬異聞―"]
+    },
+    {"base_title": "MakaiOuji-DevilsAndRealist",
+    "shobocal_id": 3052,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "魔界王子　devils　and　realist"]
+    },
+    {"base_title": "TheCatReturns",
+    "shobocal_id": 3050,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "猫の恩返し"]
+    },
+    {"base_title": "SilverSpoon",
+    "shobocal_id": 3046,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "銀の匙＜ノイタミナ＞　＃"]
+    },
     {"base_title": "ChroniclesOfTheGoingHomeClub",
     "shobocal_id": 3045,
     "count_width": 2,
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "帰宅部活動記録　＃"]
+        "帰宅部活動記録　＃",
+        "帰宅部活動記録　"]
+    },
+    {"base_title": "FutariWaMilkyHolmes",
+    "shobocal_id": 3044,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ふたりはミルキィホームズ"]
     },
     {"base_title": "Danganronpa-TheAnimation",
     "shobocal_id": 3043,
@@ -47,7 +352,10 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "ダンガンロンパ　希望の学園と絶望の高校生　Ｔｈｅ　Ａｎｉｍａｔｉｏｎ　＃"]
+        "ダンガンロンパ　希望の学園と絶望の高校生　Ｔｈｅ　Ａｎｉｍａｔｉｏｎ　＃",
+        "ダンガンロンパ　希望の学園と絶望の高校生　Ｔｈｅ　Ａｎｉｍａｉｔｉｏｎ",
+        "ダンガンロンパ 希望の学園と絶望の高校生 THE ANIMATION",
+        "ダンガンロンパ　希望の学園と絶望の高校生"]
     },
     {"base_title": "LoveLab",
     "shobocal_id": 3042,
@@ -55,7 +363,7 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "恋愛ラボ　♯"]
+        "恋愛ラボ"]
     },
     {"base_title": "StellaWomen'sAcademy-HighSchoolDivisionClassC3",
     "shobocal_id": 3041,
@@ -71,7 +379,52 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "ロウきゅーぶ！SS"]
+        "ロウきゅーぶ！SS",
+        "ロウきゅーぶ！ＳＳ"]
+    },
+    {"base_title": "Kami-samaNoInaiNichiyobi",
+    "shobocal_id": 3039,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "神さまのいない日曜日",
+        "神様のいない日曜日"]
+    },
+    {"base_title": "HighSchoolDxD-New",
+    "shobocal_id": 3038,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ハイスクールＤ×Ｄ",
+        "ハイスクールD×D NEW"]
+    },
+    {"base_title": "GeneiWoKakeruTaiyo",
+    "shobocal_id": 3037,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "幻影ヲ駆ケル太陽"]
+    },
+    {"base_title": "BloodLad",
+    "shobocal_id": 3036,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ブラッドラッド"]
+    },
+    {"base_title": "FateKaleidLiner-PrismaIllya",
+    "shobocal_id": 3035,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "Ｆａｔｅ　ｋａｌｅｉｄ　ｌｉｎｅｒ　プリズマ☆イリヤ",
+        "Ｆａｔｅ／ｋａｌｅｉｄ　ｌｉｎｅｒ　プリズマ☆イリヤ",
+        "Fate／kaleid liner プリズマ☆イリヤ"]
     },
     {"base_title": "Kingdom2",
     "shobocal_id": 3034,
@@ -87,7 +440,42 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "Ｆｒｅｅ！"]
+        "Ｆｒｅｅ！",
+        "Free！",
+        "Free! #"]
+    },
+    {"base_title": "FantasistaDoll",
+    "shobocal_id": 3030,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ファンタジスタドール"]
+    },
+    {"base_title": "UchotenKazoku",
+    "shobocal_id": 3029,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "有頂天家族"]
+    },
+    {"base_title": "WataMote-NoMatterHowILookAtIt-It'sYouGuys'FaultI'mNotPopular",
+    "shobocal_id": 3028,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "私がモテないのはどう考えてもお前らが悪い！"]
+    },
+    {"base_title": "KamiNomiZoShiruSekai-Megami-Hen",
+    "shobocal_id": 3027,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "神のみぞ知るセカイ　女神篇",
+        "神のみぞ知るセカイ 女神篇"]
     },
     {"base_title": "RecorderAndRandsell-Mi",
     "shobocal_id": 3026,
@@ -97,13 +485,49 @@
     "matching_str": [
         "リコーダーとランドセル ミ☆ #"]
     },
+    {"base_title": "Teekyu",
+    "shobocal_id": 3025,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "is_hi_vision":
+        { "tokyoMx": true
+        },
+    "matching_str": [
+        "てーきゅう"]
+    },
+    {"base_title": "ATownWhereYouLive",
+    "shobocal_id": 3023,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "君のいる町"]
+    },
+    {"base_title": "NerawaretaGakuen",
+    "shobocal_id": 3022,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ねらわれた学園"]
+    },
+    {"base_title": "KiniroMosaic",
+    "shobocal_id": 3021,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "きんいろモザイク"]
+    },
     {"base_title": "Tamayura-MoreAggressive",
     "shobocal_id": 3020,
     "count_width": 2,
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "たまゆら～もあぐれっしぶ～"]
+        "たまゆら～もあぐれっしぶ～",
+        "たまゆら　～もあぐれっしぶ～"]
     },
     {"base_title": "DogAndScissors",
     "shobocal_id": 3019,
@@ -113,6 +537,23 @@
     "matching_str": [
         "犬とハサミは使いよう"]
     },
+    {"base_title": "GenshikenNidaime",
+    "shobocal_id": 3017,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "げんしけん二代目",
+        "げんしけん 二代目"]
+    },
+    {"base_title": "ServantXService",
+    "shobocal_id": 3016,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "サーバント×サービス"]
+    },
     {"base_title": "RozenMaiden-Zuruckspulen",
     "shobocal_id": 3015,
     "count_width": 2,
@@ -121,6 +562,16 @@
     "matching_str": [
         "ローゼンメイデン"]
     },
+    {"base_title": "HyperdimensionNeptunia-TheAnimation",
+    "shobocal_id": 3014,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "超次元ゲイム ネプテューヌ",
+        "超次元ゲイム　ネプテューヌ",
+        "超次元ゲイム ネプテュ―ヌ"]
+    },
     {"base_title": "Symphogear-G",
     "shobocal_id": 3013,
     "count_width": 2,
@@ -128,6 +579,16 @@
     "is_progressive": true,
     "matching_str": [
         "戦姫絶唱シンフォギアＧ"]
+    },
+    {"base_title": "MonogatariSeries-2ndSeason",
+    "shobocal_id": 3012,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "＜物語＞シリーズ　セカンドシーズン",
+        "＜物語＞シリーズセカンドシーズン",
+        "＜物語＞シリーズ セカンドシーズン"]
     },
     {"base_title": "LibraryWar-TheWingsOfRevolution",
     "shobocal_id": 3003,
@@ -423,6 +884,15 @@
     "is_progressive": true,
     "matching_str": [
         "デート・ア・ライブ"]
+    },
+    {"base_title": "CodeGeass-AkitoTheExiled",
+    "shobocal_id": 2898,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "コードギアス　亡国のアキト　",
+        "コードギアス　亡国のアキト"]
     },
     {"base_title": "Konodan-Merman",
     "shobocal_id": 2881,
@@ -774,7 +1244,10 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "リトルバスターズ！"]
+        "リトルバスターズ！"],
+    "non_matching_str": [
+        "Refrain",
+        "～Ｒｅｆｒａｉｎ～" ]
     },
     {"base_title": "ZetsuenNoTempest",
     "shobocal_id": 2694,
@@ -818,6 +1291,14 @@
     "is_progressive": true,
     "matching_str": [
         "さくら荘のペットな彼女"]
+    },
+    {"base_title": "FullmetalAlchemist-TheSacredStarOfMilos",
+    "shobocal_id": 2664,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "鋼の錬金術師 嘆きの丘（ミロス）の聖なる星"]
     },
     {"base_title": "Berserk-Movie",
     "shobocal_id": 2611,
@@ -897,6 +1378,14 @@
     "matching_str": [
         "アニメ　銀河へキックオフ！！"]
     },
+    {"base_title": "TheLifeOfGuskoBudori",
+    "shobocal_id": 2504,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "グスコーブドリの伝記"]
+    },
     {"base_title": "SpaceBattleshipYamato2199",
     "shobocal_id": 2498,
     "count_width": 2,
@@ -973,6 +1462,14 @@
     "matching_str": [
         "攻殻機動隊STAND ALONE COMPLEX The Laughing Man"]
     },
+    {"base_title": "NightOnTheGalacticRailroad",
+    "shobocal_id": 2385,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "銀河鉄道の夜"]
+    },
     {"base_title": "InuXBokuSS",
     "shobocal_id": 2377,
     "count_width": 2,
@@ -1013,6 +1510,14 @@
     "matching_str": [
         "アニメ　ファイ・ブレイン～神のパズル"]
     },
+    {"base_title": "Blood-C",
+    "shobocal_id": 2195,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＢＬＯＯＤ－Ｃ　"]
+    },
     {"base_title": "MobileSuitGundamUC",
     "shobocal_id": 2130,
     "count_width": 2,
@@ -1030,13 +1535,23 @@
     "matching_str": [
         "青の祓魔師"]
     },
+    {"base_title": "OnePieceFilm-StringWorld",
+    "shobocal_id": 2090,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ワンピース　フィルム　ストロングワールド"]
+    },
     {"base_title": "Freezing",
     "shobocal_id": 2074,
     "count_width": 2,
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "フリージング"]
+        "フリージング"],
+    "non_matching_str": [
+        "ヴァイブレーション"]
     },
     {"base_title": "StarDriver-KagayakiNoTakuto",
     "shobocal_id": 2044,
@@ -1115,6 +1630,46 @@
     "matching_str": [
         "刀語＜ノイタミナ＞"]
     },
+    {"base_title": "OnePieceTheMovie",
+    "shobocal_id": 1818,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ワンピース　ＴＨＥ　ＭＯＶＩＥ　オマツリ男爵と秘密の島"]
+    },
+    {"base_title": "OnePieceTheMovie",
+    "shobocal_id": 1817,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ワンピース　ＴＨＥ　ＭＯＶＩＥ　デッドエンドの冒険"]
+    },
+    {"base_title": "OnePieceTheMovie",
+    "shobocal_id": 1816,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ワンピース　エピソード　オブ　チョッパープラス冬に咲く、奇跡の桜"]
+    },
+    {"base_title": "OnePieceTheMovie",
+    "shobocal_id": 1815,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ワンピース　エピソード　オブ　アラバスタ　砂漠の王女と海賊たち"]
+    },
+    {"base_title": "OnePieceTheMovie",
+    "shobocal_id": 1814,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＯＮＥ　ＰＩＥＣＥ　ワンピース　呪われた聖剣"]
+    },
     {"base_title": "FairyTail",
     "shobocal_id": 1755,
     "count_width": 2,
@@ -1131,6 +1686,14 @@
     "matching_str": [
         "かのこん～真夏の大謝肉祭～"]
     },
+    {"base_title": "BloodTheLastVampire",
+    "shobocal_id": 1672,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＢＬＯＯＤ　ＴＨＥ　ＬＡＳＴ　ＶＡＭＰＩＲＥ"]
+    },
     {"base_title": "GuinSaga",
     "shobocal_id": 1565,
     "count_width": 2,
@@ -1145,7 +1708,8 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "みなみけ おかえり"]
+        "みなみけ おかえり",
+        "みなみけ　おかえり #"]
     },
     {"base_title": "KaraNoKyokai",
     "shobocal_id": 1536,
@@ -1153,7 +1717,9 @@
     "crop": false,
     "is_progressive": true,
     "matching_str": [
-        "劇場版　空の境界"]
+        "劇場版　空の境界",
+        "劇場版「空の境界」",
+        "空の境界 "]
     },
     {"base_title": "ToaruMajutsuNoIndex",
     "shobocal_id": 1487,
@@ -1180,6 +1746,14 @@
     "is_progressive": true,
     "matching_str": [
         "キディ・グレイド "]
+    },
+    {"base_title": "Kanokon",
+    "shobocal_id": 1350,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "かのこん"]
     },
     {"base_title": "CodeGeass-LelouchOfTheRebellionR2",
     "shobocal_id": 1343,
@@ -1208,6 +1782,14 @@
         "劇場版"
     ]
     },
+    {"base_title": "TheSuperDimensionFortressMacross",
+    "shobocal_id": 1264,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "超時空要塞マクロス　"]
+    },
     {"base_title": "DennoCoil",
     "shobocal_id": 1028,
     "count_width": 2,
@@ -1215,6 +1797,14 @@
     "is_progressive": true,
     "matching_str": [
         "電脳コイル"]
+    },
+    {"base_title": "RecordOfLodossWar",
+    "shobocal_id": 1018,
+    "count_width": 2,
+    "crop": true,
+    "is_progressive": true,
+    "matching_str": [
+        "ロードス島戦記"]
     },
     {"base_title": "RurouniKenshin-RequiemForTheIshinPatriots",
     "shobocal_id": 1015,
@@ -1251,10 +1841,18 @@
     {"base_title": "Kemonozume",
     "shobocal_id": 905,
     "count_width": 2,
-    "crop": true,
+    "crop": false,
     "is_progressive": true,
     "matching_str": [
         "ケモノヅメ #"]
+    },
+    {"base_title": "MillenniumActress",
+    "shobocal_id": 889,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "千年女優"]
     },
     {"base_title": "xxxHOLiC",
     "shobocal_id": 745,
@@ -1283,6 +1881,14 @@
     "matching_str": [
         "りぜるまいん "]
     },
+    {"base_title": "PerfectBlue",
+    "shobocal_id": 670,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＰＥＲＦＥＣＴ　ＢＬＵＥ"]
+    },
     {"base_title": "Karas",
     "shobocal_id": 615,
     "count_width": 2,
@@ -1307,6 +1913,14 @@
     "matching_str": [
         "機動戦士ガンダムＳＥＥＤ　ＤＥＳＴＩＮＹ",
         "機動戦士ガンダムSEED DESTINY"]
+    },
+    {"base_title": "DotHack-LegendOfTheTwilight",
+    "shobocal_id": 465,
+    "count_width": 2,
+    "crop": true,
+    "is_progressive": true,
+    "matching_str": [
+        ".hack／／黄昏の腕輪伝説"]
     },
     {"base_title": "HanaukyoMaidTeam-LaVerite",
     "shobocal_id": 362,
@@ -1349,6 +1963,14 @@
         "攻殻機動隊　Ｓ．Ａ．Ｃ．　２ｎｄ",
         "攻殻機動隊　S.A.C. 2nd GIG"]
     },
+    {"base_title": "ParanoiaAgent",
+    "shobocal_id": 277,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "妄想代理人　＃"]
+    },
     {"base_title": "GhostInTheShell-StandAloneComplex",
     "shobocal_id": 104,
     "count_width": 2,
@@ -1356,7 +1978,8 @@
     "is_progressive": true,
     "matching_str": [
         "攻殻機動隊　STAND ALONE COMPLEX",
-        "攻殻機動隊 ＳＴＡＮＤ ＡＬＯＮＥ ＣＯＭＰＬＥＸ#"]
+        "攻殻機動隊 ＳＴＡＮＤ ＡＬＯＮＥ ＣＯＭＰＬＥＸ#",
+        "攻殻機動隊STAND ALONE COMPLEX"]
     },
     {"base_title": "MobileSuitGundamSeed",
     "shobocal_id": 19,
@@ -1411,5 +2034,29 @@
     "is_progressive": true,
     "matching_str": [
         "特：赤の肖像～シャア、そしてフロンタルへ～特別版"]
+    },
+    {"base_title": "Golgo13-TheProfessional",
+    "shobocal_id": -202,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "劇場版 ゴルゴ13"]
+    },
+    {"base_title": "FridayTheater",
+    "shobocal_id": -203,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "金曜ロードＳＨＯＷ！"]
+    },
+    {"base_title": "OnePiece-FilmZ",
+    "shobocal_id": -204,
+    "count_width": 2,
+    "crop": false,
+    "is_progressive": true,
+    "matching_str": [
+        "ＯＮＥ　ＰＩＥＣＥ　ＦＩＬＭ　Ｚ　ワンピース　フィルム　ゼット"]
     }
 ]
